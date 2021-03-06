@@ -1,0 +1,26 @@
+{
+  "name": "speedtest",
+  "version": "0.1.0",
+  "private": false,
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "export": "next export",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "nprogress": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/nprogress": "latest",
+    "@types/react": "latest",
+    "postcss-preset-env": "^6.7.0",
+    "tailwindcss": "latest",
+    "typescript": "latest"
+  }
+}
